@@ -1,0 +1,8 @@
+c:\users\smallika\documents\visual studio 2017\Projects\TestService\TestService\bin\Debug\TestService.exe.config
+c:\users\smallika\documents\visual studio 2017\Projects\TestService\TestService\bin\Debug\TestService.exe
+c:\users\smallika\documents\visual studio 2017\Projects\TestService\TestService\bin\Debug\TestService.pdb
+c:\users\smallika\documents\visual studio 2017\Projects\TestService\TestService\obj\Debug\TestService.ProjectInstaller.resources
+c:\users\smallika\documents\visual studio 2017\Projects\TestService\TestService\obj\Debug\TestService.TestService.resources
+c:\users\smallika\documents\visual studio 2017\Projects\TestService\TestService\obj\Debug\TestService.csproj.GenerateResource.Cache
+c:\users\smallika\documents\visual studio 2017\Projects\TestService\TestService\obj\Debug\TestService.exe
+c:\users\smallika\documents\visual studio 2017\Projects\TestService\TestService\obj\Debug\TestService.pdb

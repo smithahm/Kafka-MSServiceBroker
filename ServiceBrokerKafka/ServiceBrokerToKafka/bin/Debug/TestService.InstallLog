@@ -1,0 +1,15 @@
+﻿Installing assembly 'C:\Users\smallika\Documents\Visual Studio 2017\Projects\TestService\TestService\bin\Debug\TestService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\smallika\Documents\Visual Studio 2017\Projects\TestService\TestService\bin\Debug\TestService.exe
+   logfile = C:\Users\smallika\Documents\Visual Studio 2017\Projects\TestService\TestService\bin\Debug\TestService.InstallLog
+Installing service TestService...
+Creating EventLog source TestService in log Application...
+Rolling back assembly 'C:\Users\smallika\Documents\Visual Studio 2017\Projects\TestService\TestService\bin\Debug\TestService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\smallika\Documents\Visual Studio 2017\Projects\TestService\TestService\bin\Debug\TestService.exe
+   logfile = C:\Users\smallika\Documents\Visual Studio 2017\Projects\TestService\TestService\bin\Debug\TestService.InstallLog
+Restoring event log to previous state for source TestService.
